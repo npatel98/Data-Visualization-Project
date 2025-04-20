@@ -77,3 +77,5 @@ The stakeholders also emphasized that while statistics play a key role in unders
 This analysis provides valuable insights into the **Los Angeles Lakers'** and **Minnesota Timberwolves'** performances throughout the 2025 NBA regular season. The visualizations not only highlight the key star players on both teams but also reveal the **strengths and weaknesses** in their overall playstyles. While the **Timberwolves** hold a statistical advantage in some areas, the **Lakers' experience** and **positional mismatches** may give them the upper hand in the playoff series.
 
 Ultimately, the **Lakers' playoff success** will depend on their ability to **leverage their star players in Luka Doncic and Lebron James**, while the **Timberwolves** will look to capitalize on their **frontcourt advantage** to overcome the Lakers’ experience. The visualizations provided in this report serve as a powerful tool for understanding these dynamics and predicting how the matchup might unfold.
+
+To see source code, visit https://github.com/npatel98/Data-Visualization-Project.
